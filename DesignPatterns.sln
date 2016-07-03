@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryTester", "src\Factor
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Factory", "Factory", "{DAD88A5C-D308-4E52-8125-F1CC2BD253E1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AbstractFactory", "AbstractFactory", "{EDCD7169-EA05-42E5-A49C-9396E9EF7AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryTester", "src\AbstractFactoryTester\AbstractFactoryTester.csproj", "{BEB339B9-5A4C-4A78-A052-B45570B879CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +21,16 @@ Global
 		{07D2DD93-8C94-4201-B8F3-73BE78F8F9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07D2DD93-8C94-4201-B8F3-73BE78F8F9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07D2DD93-8C94-4201-B8F3-73BE78F8F9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB339B9-5A4C-4A78-A052-B45570B879CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB339B9-5A4C-4A78-A052-B45570B879CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB339B9-5A4C-4A78-A052-B45570B879CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB339B9-5A4C-4A78-A052-B45570B879CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{07D2DD93-8C94-4201-B8F3-73BE78F8F9EE} = {DAD88A5C-D308-4E52-8125-F1CC2BD253E1}
+		{BEB339B9-5A4C-4A78-A052-B45570B879CE} = {EDCD7169-EA05-42E5-A49C-9396E9EF7AA1}
 	EndGlobalSection
 EndGlobal
