@@ -1,4 +1,4 @@
-﻿using Patterns.Factory;
+﻿using FactoryTester.Factory;
 using System;
 
 namespace FactoryTester

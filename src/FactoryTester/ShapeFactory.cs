@@ -1,4 +1,4 @@
-﻿namespace Patterns.Factory
+﻿namespace FactoryTester.Factory
 {
     public class ShapeFactory
     {
