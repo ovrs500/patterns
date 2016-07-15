@@ -24,6 +24,8 @@ namespace Decorator
         private string setRedBorder(
             IShape decoratedShape)
         {
+            var change = "asdfsaf";
+
             return "Border Color: Red";
         }
     }
