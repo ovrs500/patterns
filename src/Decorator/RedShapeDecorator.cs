@@ -25,6 +25,7 @@ namespace Decorator
             IShape decoratedShape)
         {
             var change = "asdfsaf";
+            var newchagne = "asdfs";
 
             return "Border Color: Red";
         }
