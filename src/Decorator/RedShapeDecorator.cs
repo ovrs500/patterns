@@ -26,6 +26,7 @@ namespace Decorator
         {
             var change = "asdfsaf";
             var newchagne = "asdfs";
+            var stuff = "this is v2 change";
 
             return "Border Color: Red";
         }
